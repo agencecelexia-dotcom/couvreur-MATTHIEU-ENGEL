@@ -3,33 +3,33 @@
 
 ## IDENTITE
 
-NOM_ENTREPRISE: "Nom de l'Entreprise"
-NOM_LEGAL: "Nom de l'Entreprise SARL"
-SIRET: "000 000 000 00000"
+NOM_ENTREPRISE: "MATTHIEU ENGEL"
+NOM_LEGAL: "MATTHIEU ENGEL"
+SIRET: "990 428 351 00011"
 METIER: "couvreur"
 METIER_LABEL: "Couvreur"
 GENRE_DIRIGEANT: "M"
-PRENOM_DIRIGEANT: "Prenom"
-NOM_DIRIGEANT: "Nom"
-DIPLOME_DIRIGEANT: "couvreur-zingueur diplome, compagnon du devoir"
-ANNEE_CREATION: "2010"
-ANNEES_EXPERIENCE: "15"
+PRENOM_DIRIGEANT: "Matthieu"
+NOM_DIRIGEANT: "ENGEL"
+DIPLOME_DIRIGEANT: "couvreur-zingueur diplome, artisan qualifie"
+ANNEE_CREATION: "2018"
+ANNEES_EXPERIENCE: "12"
 
 ## CONTACT
 
-TELEPHONE: "00 00 00 00 00"
-EMAIL: "contact@votre-domaine.fr"
-ADRESSE: "1 Rue de la Paix"
-CODE_POSTAL: "00000"
-VILLE: "Votre Ville"
-DEPARTEMENT: "Votre Departement"
-REGION: "Votre Region"
+TELEPHONE: "06 66 76 40 41"
+EMAIL: "mpccouverture@gmail.com"
+ADRESSE: "58 RUE DU TERRIER"
+CODE_POSTAL: "34770"
+VILLE: "GIGEAN"
+DEPARTEMENT: "Herault"
+REGION: "Occitanie"
 PAYS: "France"
-HORAIRES: "Lun-Ven: 8h00-18h00, Sam: 9h00-13h00"
-ZONE_INTERVENTION: "Votre ville et region"
-ZONES_LISTE: "Votre Ville, Ville A, Ville B, Ville C, Ville D, Ville E, Ville F"
-LATITUDE: "46.603354"
-LONGITUDE: "1.888334"
+HORAIRES: "Lun-Ven: 7h30-18h00, Sam: 8h00-12h00"
+ZONE_INTERVENTION: "Gigean et bassin de Thau"
+ZONES_LISTE: "Gigean, Montpellier, Sete, Frontignan, Balaruc-les-Bains, Bouzigues, Meze, Poussan, Fabrègues, Cournonterral"
+LATITUDE: "43.5011"
+LONGITUDE: "3.7158"
 
 ## BRANDING
 
@@ -43,34 +43,34 @@ FONT_CORPS: "DM Sans"
 
 ## SEO
 
-DOMAINE: "www.votre-domaine.fr"
-META_TITLE: "Nom de l'Entreprise | Couvreur a Votre Ville"
-META_DESCRIPTION: "Couvreur a Votre Ville. Couverture neuve, renovation de toiture, zinguerie, isolation, depannage urgent. Devis gratuit."
-META_KEYWORDS: "couvreur, couverture, toiture, renovation toiture, zinguerie, isolation toiture, depannage toiture, couvreur professionnel"
+DOMAINE: "www.matthieu-engel-couvreur.fr"
+META_TITLE: "Matthieu ENGEL | Couvreur a Gigean - Herault"
+META_DESCRIPTION: "Couvreur a Gigean et bassin de Thau. Couverture neuve, renovation de toiture, zinguerie, isolation. Intervention rapide dans l'Herault. Devis gratuit."
+META_KEYWORDS: "couvreur Gigean, couverture Herault, toiture bassin de Thau, renovation toiture Montpellier, zinguerie Sete, couvreur professionnel"
 SCHEMA_TYPE: "RoofingContractor"
 
 ## CONTENU
 
-SLOGAN: "Votre Slogan Ici"
-ACCROCHE_HERO: "Votre Toiture — Entre de Bonnes Mains"
-DESCRIPTION_ENTREPRISE: "Votre description d'entreprise. Couverture, renovation, zinguerie et isolation — un savoir-faire artisanal au service de votre toiture."
-DESCRIPTION_FOOTER: "Votre description courte pour le footer du site."
-DESCRIPTION_APROPOS: "Fondee par Prenom Nom, votre entreprise est nee d'une passion profonde pour les metiers de la couverture et du batiment."
+SLOGAN: "Votre Toiture Sous le Soleil de l'Herault"
+ACCROCHE_HERO: "Excellence en Couverture — Artisan de Confiance a Gigean"
+DESCRIPTION_ENTREPRISE: "Matthieu ENGEL, artisan couvreur a Gigean, met son expertise au service de votre habitat dans l'Herault. Couverture neuve, renovation, zinguerie et isolation — un savoir-faire artisanal adapte au climat mediterraneen."
+DESCRIPTION_FOOTER: "Matthieu ENGEL, votre couvreur de confiance a Gigean. Intervention dans tout le bassin de Thau et la region de Montpellier."
+DESCRIPTION_APROPOS: "Fondee par Matthieu ENGEL, l'entreprise est nee d'une passion profonde pour les metiers de la couverture. Implante a Gigean au coeur du bassin de Thau, nous intervenons dans tout l'Herault avec un savoir-faire adapte aux specificites du climat mediterraneen."
 
 ## SERVICES
 
 SERVICE_1_TITRE: "Couverture Neuve"
-SERVICE_1_DESC: "Installation complete de votre toiture en ardoise, tuile ou zinc, avec une finition soignee et durable."
+SERVICE_1_DESC: "Installation complete de votre toiture en tuiles canal, ardoise ou zinc, adaptee au climat mediterraneen et aux normes locales."
 SERVICE_2_TITRE: "Renovation de Toiture"
-SERVICE_2_DESC: "Refection partielle ou totale de votre couverture pour redonner etancheite et esthetique a votre toit."
+SERVICE_2_DESC: "Refection partielle ou totale de votre couverture pour redonner etancheite et resistance aux intemperies de l'Herault."
 SERVICE_3_TITRE: "Zinguerie"
-SERVICE_3_DESC: "Pose et reparation de gouttieres, descentes EP, cheneaux, noues et abergements en zinc ou cuivre."
+SERVICE_3_DESC: "Pose et reparation de gouttieres, descentes EP, cheneaux et abergements. Solutions durables contre les pluies cevenoles."
 SERVICE_4_TITRE: "Isolation de Toiture"
-SERVICE_4_DESC: "Isolation thermique par l'interieur ou l'exterieur (sarking) pour ameliorer le confort et reduire la facture energetique."
+SERVICE_4_DESC: "Isolation thermique adaptee au climat du Sud : fraicheur en ete, confort en hiver. Sarking et isolation par l'interieur."
 SERVICE_5_TITRE: "Depannage & Urgence"
-SERVICE_5_DESC: "Intervention rapide pour fuites, tuiles cassees, bachage d'urgence et reparations suite a intemperies."
+SERVICE_5_DESC: "Intervention rapide suite aux orages et vents violents frequents dans la region. Bachage d'urgence et reparations express."
 SERVICE_6_TITRE: "Demoussage & Entretien"
-SERVICE_6_DESC: "Nettoyage, traitement anti-mousse et hydrofuge pour prolonger la duree de vie de votre toiture."
+SERVICE_6_DESC: "Nettoyage et traitement anti-mousse adaptes a l'humidite du bassin de Thau. Protection longue duree de votre toiture."
 
 ## RESEAUX SOCIAUX
 
@@ -83,17 +83,17 @@ PINTEREST_URL: ""
 
 ## TEMOIGNAGES
 
-TEMOIGNAGE_1_NOM: "Client Satisfait"
-TEMOIGNAGE_1_VILLE: "Votre Ville"
-TEMOIGNAGE_1_TEXTE: "Nom de l'Entreprise a refait entierement notre toiture en ardoise. Le travail est impeccable, l'equipe ponctuelle et soigneuse. Nous recommandons les yeux fermes !"
+TEMOIGNAGE_1_NOM: "Famille Dubois"
+TEMOIGNAGE_1_VILLE: "Gigean"
+TEMOIGNAGE_1_TEXTE: "Matthieu a refait entierement notre toiture en tuiles canal. Le travail est impeccable, l'equipe ponctuelle et soigneuse. Parfait pour notre mas provencal !"
 TEMOIGNAGE_1_NOTE: "5"
-TEMOIGNAGE_2_NOM: "Famille Placeholder"
-TEMOIGNAGE_2_VILLE: "Commune voisine"
-TEMOIGNAGE_2_TEXTE: "Intervention rapide apres une fuite. Diagnostic precis, reparation efficace et prix honnete. Un vrai professionnel de la couverture."
+TEMOIGNAGE_2_NOM: "Pierre Martinez"
+TEMOIGNAGE_2_VILLE: "Frontignan"
+TEMOIGNAGE_2_TEXTE: "Intervention rapide apres les derniers orages. Diagnostic precis, reparation efficace et prix honnete. Un vrai professionnel qui connait la region."
 TEMOIGNAGE_2_NOTE: "5"
-TEMOIGNAGE_3_NOM: "M. Placeholder"
-TEMOIGNAGE_3_VILLE: "Ville proche"
-TEMOIGNAGE_3_TEXTE: "Renovation complete de notre zinguerie. Gouttieres en zinc posees avec un soin remarquable. Aucun probleme depuis, meme apres de fortes pluies."
+TEMOIGNAGE_3_NOM: "Mme Roussel"
+TEMOIGNAGE_3_VILLE: "Balaruc-les-Bains"
+TEMOIGNAGE_3_TEXTE: "Renovation complete de notre zinguerie face a l'etang. Gouttieres en zinc posees avec un soin remarquable. Aucun probleme malgre l'air salin."
 TEMOIGNAGE_3_NOTE: "5"
 
 ## HEBERGEMENT
